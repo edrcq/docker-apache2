@@ -2,7 +2,7 @@
 FROM ubuntu:16.04
 
 # Author: 
-MAINTAINER H. Meftah <dockerlite@gmail.com>
+MAINTAINER E. Rucquoy <erucquoy@gmail.com>
 
 # Install apache2 package
 RUN apt-get update && \
